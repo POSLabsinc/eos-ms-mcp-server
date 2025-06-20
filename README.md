@@ -154,8 +154,8 @@ console.log('Available tools:', tools);
 const loginResult = await client.callTool({
   name: 'eos_login',
   arguments: {
-    username: 'mp5@eigital.com',
-    password: 'Test@055'
+    username: 'mp5@gmail.com',
+    password: 'Test@05500'
   }
 });
 
